@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaywrightVerisk", "PlaywrightVerisk.csproj", "{3FC8950D-079D-4F5A-A07F-6AF6A502BA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC8950D-079D-4F5A-A07F-6AF6A502BA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC8950D-079D-4F5A-A07F-6AF6A502BA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC8950D-079D-4F5A-A07F-6AF6A502BA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC8950D-079D-4F5A-A07F-6AF6A502BA27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A702F6-8B3C-47DD-AEDB-AFC1972D002B}
+	EndGlobalSection
+EndGlobal
